@@ -1,0 +1,2 @@
+Bonjour toutle monde comment allez-vous ? 
+c'est un fichier de transfert vers le dépot local
